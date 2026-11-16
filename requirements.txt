@@ -1,0 +1,9 @@
+google-generativeai
+speechrecognition
+pyaudio
+pyttsx3
+python-dotenv
+opencv-contrib-python
+easyocr
+torch
+torchvision
