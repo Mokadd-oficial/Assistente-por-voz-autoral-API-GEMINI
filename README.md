@@ -32,7 +32,7 @@ A organização dos diretórios e arquivos do projeto segue a estrutura abaixo:
 ├── reconhecimento_imagem/           # Scripts de classificação visual
 ├── reconhecimento_texto/            # Módulos de OCR
 ├── teste do microfone/              # Utilitários para calibração e teste de áudio
-├── .env                             # Variáveis de ambiente (Chave da API - NÃO SUBIR NO GIT)
+├── .env                             # Variáveis de ambiente (Chave da API)
 ├── agenda.txt                       # Banco de dados em texto dos eventos agendados
 ├── assistente_voz.py                # Arquivo principal (Ponto de entrada do assistente)
 ├── classificadoreigen.yml           # Modelo treinado (Eigenfaces)
